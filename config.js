@@ -1,1 +1,1 @@
-var PRSSConfig={title:"Volted",url:"https://volted-co.github.io/site/",updatedAt:1708140995077,createdAt:1708138673754,structure:[{key:"fd548962-3baa-4deb-8b71-d6b4f493df1c",children:[]}],menus:{header:[{key:"fd548962-3baa-4deb-8b71-d6b4f493df1c",children:[]}],footer:[],sidebar:[]}};
+var PRSSConfig={title:"Volted",url:"https://volted-co.github.io/site/",updatedAt:1708141301140,createdAt:1708138673754,structure:[{key:"fd548962-3baa-4deb-8b71-d6b4f493df1c",children:[]}],menus:{header:[{key:"fd548962-3baa-4deb-8b71-d6b4f493df1c",children:[]}],footer:[],sidebar:[]}};
