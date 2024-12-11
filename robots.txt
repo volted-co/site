@@ -1,3 +1,0 @@
-Sitemap: https://volted.co/sitemap.xml
-User-agent:*
-Disallow:
